@@ -4,7 +4,7 @@ web api construída em NodeJS A aplicação conta com um CRUD, onde é possível
 
 Para a aplicação utilizei o banco MySql.
 
-Para testar a API, utilizei o site rest test test: https://resttesttest.com/ Para realizar uma busca, primeiro abra a aplicação em seu vsCode e execute o comando no terminal: npm start. Pronto, aqui você já tera seu servidor conectado e conectado com o banco de dados.
+Para testar a API, utilizei o site rest test test: https://resttesttest.com/ Para realizar uma busca, primeiro abra a aplicação em seu vsCode e execute o comando no terminal: npm start. Pronto, aqui você já tera seu servidor rodando e conectado com o banco de dados.
 
 Para realizar uma busca de todos os componentes em seu banco de dados, vá até o site rest test, escolha a opção GET e digite a seguinte rota: http://localhost:3000/api/clientes. Aqui você tera um retorno em JSON de todos os componentes.
 
