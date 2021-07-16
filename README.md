@@ -23,8 +23,11 @@ Para realizar um insert em sua tabela, troque o Method para POST e adicione os s
 Segue exemplo para insert: {"nome":"Juvenal","idade":"45","telefone":"998184354"} Note que o código será atribuido automaticamente pela aplicação.
 
 nome: Juvenal
+
 idade: 45
+
 telefone: 998184354
+
 
 Segue exemplo de retorno em JSON 
 
@@ -36,8 +39,11 @@ Para realizar uma edição, altere o method para PUT e adicione os parametros co
 Segue exemplo para edição: {"codigo":"4","nome":"josiel","idade":"23","telefone":"991248069"}}
 
 Nome: josiel
+
 idade: 23
+
 telefone: 991248069
+
 
 Segue exemplo de retorno para edição: 
 
